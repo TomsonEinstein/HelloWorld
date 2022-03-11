@@ -1,4 +1,4 @@
 # HelloWorld
-GithubTry
-About me.
-My name is Tomson Einstein
+GithubTry\n
+About me.\n
+My name is Tomson Einstein\n
